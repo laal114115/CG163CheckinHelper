@@ -3,8 +3,8 @@
 #--------------------推送设置-----------------------
 
 WechatPush= True
-APPID = ""
-APPSECRET = ""
+APPID = "wx60621ca20ce32fb3"
+APPSECRET = "e1fdc3b6aaa705123f31f030c8a2a86a"
 
 
 
